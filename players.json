@@ -1,0 +1,29 @@
+[
+{
+"name":"Booker DeWitt",
+"position":"PG",
+"team":"Sacramento Kings",
+"overall":85,
+"points":24.1,
+"assists":7.3,
+"rebounds":4.2
+},
+{
+"name":"Kai Killins",
+"position":"SG",
+"team":"Norfolk Seawolves",
+"overall":82,
+"points":19.8,
+"assists":3.4,
+"rebounds":5.1
+},
+{
+"name":"Neptune Vert",
+"position":"SF",
+"team":"Dallas Dragons",
+"overall":80,
+"points":21.4,
+"assists":2.9,
+"rebounds":6.7
+}
+]
